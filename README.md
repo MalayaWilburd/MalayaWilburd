@@ -23,20 +23,20 @@ Currently working on computational finance research and ML projects
 - <b>Natural Gas Price Forecasting | Python, Jupyter Notebook</b>
   - [View Project](https://github.com/MalayaWilburd/natural-gas-forecasting/blob/main/Gas_Forecast.ipynb)
  
-<h4>🤍 Data Analytics & Visualization</h4>
+<h3>🤍 Data Analytics & Visualization</h3>
 
 - <b>Financial Risk and Loan Approval Analysis | SQL, Python, Power BI</b>
   - [View Project](https://github.com/MalayaWilburd/Financial-Risk-and-Loan-Approval-Analysis)
  
 
-<h4>🤍 Machine Learning & AI</h4>
+<h3>🤍 Machine Learning & AI</h3>
 
-<h4>🤍 Data Engineering & Databases</h4>
+<h3>🤍 Data Engineering & Databases</h3>
 
 - <b>Real Estate Management System | SQL</b>
   - [View Project](https://github.com/MalayaWilburd/Real-Estate-Management-System)
     
-<h4>🤍 Research</h4>
+<h3>🤍 Research</h3>
 
 <h2>Skills</h2>
 
