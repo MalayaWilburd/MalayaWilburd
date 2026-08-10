@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Malaya Wilburd!
+  Malaya Wilburd
   <br/>
   Data Scientist | Data Analytics | Machine Learning
 </h1>
