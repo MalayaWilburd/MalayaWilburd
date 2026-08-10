@@ -9,7 +9,8 @@
  
 <h2>🤍 Data Analytics & Visualization</h2>
 - <b>Financial Risk and Loan Approval Analysis | SQL, Python, Power BI</b>
-  - [Financial Risk and Loan Approval Analysis](https://github.com/MalayaWilburd/Financial-Risk-and-Loan-Approval-Analysis)
+  - [Financial Risk and Loan Approval Analysis]https://github.com/MalayaWilburd/Financial-Risk-and-Loan-Approval-Analysis)
+  
 
 <h2>🤍 Machine Learning & AI</h2>
 
