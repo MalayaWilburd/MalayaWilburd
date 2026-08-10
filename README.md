@@ -13,7 +13,7 @@
 
 <h2>🗄️ Data Engineering & Databases</h2>
 
-<h2>🔬 Research<\h2>
+<h2>>🔬 Research</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
