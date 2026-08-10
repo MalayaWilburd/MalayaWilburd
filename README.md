@@ -3,7 +3,7 @@
 <h2>🤍 Data Science & Predictive Modeling</h2>
 
 - <b>MoneyUP | Dart, Python, SQL</b>
-  - [MoneyUP](https://github.com/iadams1/MoneyUP) <b><i>(Full Stack Mobile App)</b></i>
+  - [View Project](https://github.com/iadams1/MoneyUP) <b><i>(Full Stack Mobile App)</b></i>
 - <b>Seoul Bike Rental Demand Analysis | R, Regression</b>
   - [Seoul Bike Rental Demand Analysis](https://github.com/MalayaWilburd/seoul-bike-demand-simple-linear-regression-analysis)
  
