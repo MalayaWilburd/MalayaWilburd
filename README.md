@@ -1,7 +1,7 @@
 <div align="center">
 
 # Malaya Wilburd
-### Data Scientist | Data Analytics | Machine Learning
+## Data Scientist | Data Analytics | Machine Learning
 
 </div>
 
