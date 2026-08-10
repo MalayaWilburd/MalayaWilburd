@@ -5,6 +5,8 @@
 </h1>
 
 
+<h2>🤍 Education</h2>
+
 <h2>🤍 Data Science & Predictive Modeling</h2>
 
 - <b>MoneyUP | Dart, Python, SQL</b>
