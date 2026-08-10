@@ -1,5 +1,8 @@
-<h1>Malaya Wilburd</h1> 
-<h2>Data Scientist | Data Analytics | Machine Learning</h2>
+<h1 align="center">
+  Hi, I'm Malaya Wilburd!
+  <br/>
+  Data Scientist | Data Analytics | Machine Learning
+</h1>
 
 
 
