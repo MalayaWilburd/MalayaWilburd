@@ -1,11 +1,8 @@
 <h1 align="center">
   Hi, I'm Malaya Wilburd!
   <br/>
-</h1>
-<h2>
   Data Scientist | Data Analytics | Machine Learning
-</h2>
-
+</h1>
 
 
 <h2>🤍 Data Science & Predictive Modeling</h2>
