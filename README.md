@@ -14,7 +14,7 @@ Currently working on computational finance research and ML projects
 
 <h2>Projects</h2>
 
-<h3>🤍 Data Science & Predictive Modeling</h3>
+<h4>🤍 Data Science & Predictive Modeling</h4>
 
 - <b>MoneyUP | Dart, Python, SQL</b>
   - [View Project](https://github.com/iadams1/MoneyUP) <b><i>(Full Stack Mobile App)</b></i>
@@ -23,20 +23,20 @@ Currently working on computational finance research and ML projects
 - <b>Natural Gas Price Forecasting | Python, Jupyter Notebook</b>
   - [View Project](https://github.com/MalayaWilburd/natural-gas-forecasting/blob/main/Gas_Forecast.ipynb)
  
-<h3>🤍 Data Analytics & Visualization</h3>
+<h4>🤍 Data Analytics & Visualization</h4>
 
 - <b>Financial Risk and Loan Approval Analysis | SQL, Python, Power BI</b>
   - [View Project](https://github.com/MalayaWilburd/Financial-Risk-and-Loan-Approval-Analysis)
  
 
-<h3>🤍 Machine Learning & AI</h3>
+<h4>🤍 Machine Learning & AI</h4>
 
-<h3>🤍 Data Engineering & Databases</h3>
+<h4>🤍 Data Engineering & Databases</h4>
 
 - <b>Real Estate Management System | SQL</b>
   - [View Project](https://github.com/MalayaWilburd/Real-Estate-Management-System)
     
-<h3>🤍 Research</h3>
+<h4>🤍 Research</h4>
 
 <h2>Skills</h2>
 
