@@ -18,18 +18,21 @@ Currently working on computational finance research and ML projects
 
 - <b>MoneyUP | Dart, Python, SQL</b>
   - [View Project](https://github.com/iadams1/MoneyUP) <b><i>(Full Stack Mobile App)</b></i>
-- <b>Seoul Bike Rental Demand Analysis | R, Regression</b>
-  - [View Project](https://github.com/MalayaWilburd/seoul-bike-demand-simple-linear-regression-analysis)
 - <b>Natural Gas Price Forecasting | Python, Jupyter Notebook</b>
   - [View Project](https://github.com/MalayaWilburd/natural-gas-forecasting/blob/main/Gas_Forecast.ipynb)
  
 <h3>🤍 Data Analytics & Visualization</h3>
 
+- <b>Seoul Bike Rental Demand Analysis | R, Regression</b>
+  - [View Project](https://github.com/MalayaWilburd/seoul-bike-demand-simple-linear-regression-analysis)
 - <b>Financial Risk and Loan Approval Analysis | SQL, Python, Power BI</b>
   - [View Project](https://github.com/MalayaWilburd/Financial-Risk-and-Loan-Approval-Analysis)
  
 
 <h3>🤍 Machine Learning & AI</h3>
+
+- <b>Music Recommendation Model | Python, Jupyter Notebook</b>
+  - [View Project](https://github.com/MalayaWilburd/first_ml_model)
 
 <h3>🤍 Data Engineering & Databases</h3>
 
@@ -55,7 +58,7 @@ Supabase, MySQL
 **Currently Learning:**
 SAS
 
-<h2>Connect with Me!</h2>
+<h2>Connect with Me</h2>
 
 [<img align="left" alt="MalayaWilburd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MalayaWilburd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
