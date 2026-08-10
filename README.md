@@ -40,11 +40,20 @@ Currently working on computational finance research and ML projects
 
 <h2>Skills</h2>
 
-**Languages:** Python, R, SQL, Java, C++, Dart, Bash
-**ML & Data:** Scikit-learn, Pandas, NumPy, Matplotlib, Gradient Boosting, Regression Analysis, Statistical Modeling, Feature Engineering
-**Frameworks & Tools:** FastAPI, Uvicorn, Power BI, Streamlit, Tableau, Git/GitHub
-**Databases:** Supabase, MySQL
-**Currently Learning:** PyTorch, TensorFlow, LLM APIs
+**Languages:**
+Python, R, SQL, Java, C++, Dart, Bash
+
+**ML & Data:**
+Scikit-learn, Pandas, NumPy, Matplotlib, Gradient Boosting, Regression Analysis, Statistical Modeling, Feature Engineering
+
+**Frameworks & Tools:**
+FastAPI, Uvicorn, Power BI, Streamlit, Tableau, Git/GitHub
+
+**Databases:**
+Supabase, MySQL
+
+**Currently Learning:**
+PyTorch, TensorFlow, LLM APIs
 
 <h2>Connect with me</h2>
 
