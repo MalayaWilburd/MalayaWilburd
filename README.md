@@ -21,7 +21,7 @@
 [<img align="left" alt="MalayaWilburd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MalayaWilburd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: 
+[twitter]: https://x.com/MalayaWilburd
 [linkedin]: https://www.linkedin.com/in/malaya-wilburd-751aa82ba/
 
 <!--
