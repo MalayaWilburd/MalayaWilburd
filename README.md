@@ -1,9 +1,6 @@
-<div align="center">
+<h1>Malaya Wilburd</h1> 
+<h2>Data Scientist | Data Analytics | Machine Learning</h2>
 
-# Malaya Wilburd
-## Data Scientist | Data Analytics | Machine Learning
-
-</div>
 
 
 <h2>🤍 Data Science & Predictive Modeling</h2>
