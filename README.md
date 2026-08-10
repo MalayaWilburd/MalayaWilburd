@@ -10,7 +10,7 @@ I'm Malaya Wilburd, a data scientist and machine learning researcher passionate 
 
 My work sits at the intersection of machine learning, financial data, and applied research - from building ML backends for fintech applications to forecasting energy demand and analyzing financial risk. I'm driven by a simple belief: data should help people make better decisions.
 
-🤍 Currently working on computational finance research and ML projects
+Currently working on computational finance research and ML projects
 
 <h2>Projects</h2>
 
@@ -38,7 +38,7 @@ My work sits at the intersection of machine learning, financial data, and applie
     
 <h3>🤍 Research</h3>
 
-<h3>🤍 Skills</h3>
+<h2>Skills</h2>
 
 **Languages:** Python, R, SQL, Java, C++, Dart, Bash
 **ML & Data:** Scikit-learn, Pandas, NumPy, Matplotlib, Gradient Boosting, Regression Analysis, Statistical Modeling, Feature Engineering
