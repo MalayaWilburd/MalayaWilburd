@@ -53,7 +53,7 @@ FastAPI, Uvicorn, Power BI, Streamlit, Tableau, Git/GitHub
 Supabase, MySQL
 
 **Currently Learning:**
-PyTorch, TensorFlow, LLM APIs
+SAS
 
 <h2>Connect with Me!</h2>
 
