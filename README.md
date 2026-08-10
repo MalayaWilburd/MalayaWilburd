@@ -14,7 +14,7 @@ Currently working on computational finance research and ML projects
 
 <h2>Projects</h2>
 
-<h4>🤍 Data Science & Predictive Modeling</h4>
+<h3>🤍 Data Science & Predictive Modeling</h3>
 
 - <b>MoneyUP | Dart, Python, SQL</b>
   - [View Project](https://github.com/iadams1/MoneyUP) <b><i>(Full Stack Mobile App)</b></i>
