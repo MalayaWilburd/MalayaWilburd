@@ -10,7 +10,7 @@ I'm Malaya Wilburd, a data scientist and machine learning researcher passionate 
 
 My work sits at the intersection of machine learning, financial data, and applied research - from building ML backends for fintech applications to forecasting energy demand and analyzing financial risk. I'm driven by a simple belief: data should help people make better decisions.
 
-🔭 Currently working on computational finance research and ML projects
+🤍 Currently working on computational finance research and ML projects
 
 <h2>Projects</h2>
 
@@ -23,22 +23,22 @@ My work sits at the intersection of machine learning, financial data, and applie
 - <b>Natural Gas Price Forecasting | Python, Jupyter Notebook</b>
   - [View Project](https://github.com/MalayaWilburd/natural-gas-forecasting/blob/main/Gas_Forecast.ipynb)
  
-<h2>🤍 Data Analytics & Visualization</h2>
+<h3>🤍 Data Analytics & Visualization</h3>
 
 - <b>Financial Risk and Loan Approval Analysis | SQL, Python, Power BI</b>
   - [View Project](https://github.com/MalayaWilburd/Financial-Risk-and-Loan-Approval-Analysis)
  
 
-<h2>🤍 Machine Learning & AI</h2>
+<h3>🤍 Machine Learning & AI</h3>
 
-<h2>🤍 Data Engineering & Databases</h2>
+<h3>🤍 Data Engineering & Databases</h3>
 
 - <b>Real Estate Management System | SQL</b>
   - [View Project](https://github.com/MalayaWilburd/Real-Estate-Management-System)
     
-<h2>🤍 Research</h2>
+<h3>🤍 Research</h3>
 
-<h2>🤍 Skills</h2>
+<h3>🤍 Skills</h3>
 
 **Languages:** Python, R, SQL, Java, C++, Dart, Bash
 **ML & Data:** Scikit-learn, Pandas, NumPy, Matplotlib, Gradient Boosting, Regression Analysis, Statistical Modeling, Feature Engineering
@@ -46,7 +46,7 @@ My work sits at the intersection of machine learning, financial data, and applie
 **Databases:** Supabase, MySQL
 **Currently Learning:** PyTorch, TensorFlow, LLM APIs
 
-<h2>🤍 Connect with me</h2>
+<h2>Connect with me</h2>
 
 [<img align="left" alt="MalayaWilburd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MalayaWilburd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
