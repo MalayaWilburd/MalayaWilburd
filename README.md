@@ -8,7 +8,7 @@
 
 I'm Malaya Wilburd, a data scientist and machine learning researcher passionate about using computational methods to solve real world problems. I'm a Computer Science graduate (Summa Cum Laude, 3.977 GPA) from Arkansas Tech University and an incoming graduate student in Emerging Technologies (Data Science Concentration) at NYU Tandon School of Engineering.
 
-My work sits at the intersection of machine learning, financial data, and applied research - from building ML backends for fintech applications to forecasting energy demand and analyzing financial risk. I'm driven by a simple belief: data should help people make better decisions.
+My work sits at the intersection of machine learning, financial data, and applied research; from building ML backends for fintech applications to forecasting energy demand and analyzing financial risk. I'm driven by a simple belief: data should help people make better decisions.
 
 Currently working on computational finance research and ML projects
 
