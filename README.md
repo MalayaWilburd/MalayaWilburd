@@ -17,7 +17,7 @@
 
 <h2>🤍 Data Engineering & Databases</h2>
 
-- <b>Real Estate Management System | SQL<\b>
+- <b>Real Estate Management System | SQL</b>
   - [Real Estate Management System](https://github.com/MalayaWilburd/Real-Estate-Management-System)
     
 <h2>🤍 Research</h2>
