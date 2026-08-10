@@ -5,7 +5,6 @@
 </h1>
 
 
-<h2>🤍 Education</h2>
 
 <h2>🤍 Data Science & Predictive Modeling</h2>
 
@@ -31,6 +30,13 @@
     
 <h2>🤍 Research</h2>
 
+<h2>🤍 Skills</h2>
+
+**Languages:** Python, R, SQL, Java, C++, Dart, Bash
+**ML & Data:** Scikit-learn, Pandas, NumPy, Matplotlib, Gradient Boosting, Regression Analysis, Statistical Modeling, Feature Engineering
+**Frameworks & Tools:** FastAPI, Uvicorn, Power BI, Streamlit, Tableau, Git/GitHub
+**Databases:** Supabase, MySQL
+**Currently Learning:** PyTorch, TensorFlow, LLM APIs
 
 <h2>🤍 Connect with me</h2>
 
