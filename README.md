@@ -4,7 +4,7 @@
   Data Scientist | Data Analytics | Machine Learning
 </h1>
 
-<h2>🤍About Me</h2>
+<h2>About Me</h2>
 
 I'm Malaya Wilburd, a data scientist and machine learning researcher passionate about using computational methods to solve real world problems. I'm a Computer Science graduate (Summa Cum Laude, 3.977 GPA) from Arkansas Tech University and an incoming graduate student in Emerging Technologies (Data Science Concentration) at NYU Tandon School of Engineering.
 
@@ -12,7 +12,9 @@ My work sits at the intersection of machine learning, financial data, and applie
 
 🔭 Currently working on computational finance research and ML projects
 
-<h2>🤍 Data Science & Predictive Modeling</h2>
+<h2>Projects</h2>
+
+<h3>🤍 Data Science & Predictive Modeling</h3>
 
 - <b>MoneyUP | Dart, Python, SQL</b>
   - [View Project](https://github.com/iadams1/MoneyUP) <b><i>(Full Stack Mobile App)</b></i>
