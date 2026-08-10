@@ -6,6 +6,8 @@
   - [View Project](https://github.com/iadams1/MoneyUP) <b><i>(Full Stack Mobile App)</b></i>
 - <b>Seoul Bike Rental Demand Analysis | R, Regression</b>
   - [View Project](https://github.com/MalayaWilburd/seoul-bike-demand-simple-linear-regression-analysis)
+- <b>Natural Gas Price Forecasting | Python, Jupyter Notebook</b>
+  - [View Project](https://github.com/MalayaWilburd/natural-gas-forecasting/blob/main/Gas_Forecast.ipynb)
  
 <h2>🤍 Data Analytics & Visualization</h2>
 
