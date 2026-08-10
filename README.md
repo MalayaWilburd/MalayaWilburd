@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malaya! <br/><a href="https://github.com/MalayaWilburd">Data Scientist</a>, <a href="https://www.linkedin.com/in/malaya-wilburd-751aa82ba/">| ML & Data Analytics</a></h1>
+<h1>Hi, I'm Malaya! <br/><a href="https://github.com/MalayaWilburd">Data Scientist</a> <a href="https://www.linkedin.com/in/malaya-wilburd-751aa82ba/">| ML & Data Analytics</a></h1>
 
 <h2>📊 Data Science & Predictive Modeling:</h2>
 
