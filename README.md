@@ -1,7 +1,7 @@
 <h1 align="center">
   Malaya Wilburd
   <br/>
-  Data Scientist | Data Analytics | Machine Learning
+  Data Scientist | Machine Learning | Data Analytics
 </h1>
 
 <h2>About Me</h2>
